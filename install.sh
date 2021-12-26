@@ -32,4 +32,4 @@ pip install Werkzeug
 pip install xdis
 pip install futures
 clear
-python braje.py
+python test.py
